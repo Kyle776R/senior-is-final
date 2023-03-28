@@ -3,13 +3,13 @@ GitHub repository for Kyle Rossi's Independent Study at the College of Wooster. 
 
 As long as your Python virtual environment can support the `math`, `random`, and `graphics.py` libraries, everything should work as intended. Simply run a file of your choosing and adjust parameters as necessary. Files are broken up into two main folders:
 
-- simple-csp-work
+- complex-csp-work
   1. collect_data_model_A
   2. collect_data_model_B
   3. create_graphs_path_creation
   4. **path_creation_model_A**
   5. **path_creation_model_B**
-- complex-csp-work
+- simple-csp-work
   1. **agent_algorithm_1**
   2. **agent_algorithm_2**
   3. algorithm_1_collect_data

@@ -1,5 +1,5 @@
 # senior-is-final
-GitHub repository for Kyle Rossi's Independent Study at the College of Wooster. (*Link to I.S. Thesis pending*)
+GitHub repository for Kyle Rossi's Independent Study at the College of Wooster. (Link to I.S. Thesis: https://wooster.edu/2023/04/14/kyle-rossi/)
 
 As long as your Python virtual environment can support the `math`, `random`, and `graphics.py` libraries, everything should work as intended. Simply run a file of your choosing and adjust parameters as necessary. Files are broken up into two main folders:
 
